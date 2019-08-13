@@ -1,9 +1,7 @@
 # techCodes
-Collection of tools for 3D and VFX artists in Python
+Collection of script and codes, that i have written in free time
 
 ## Running these scripts
-You would need Python3 installed in your system
-Few scripts need to be configured, so you may open tehm in notepad or visual code to edit the file paths etc.
-Just navigate to the folder where these scripts reside
-to run these scripts run python <scriptname.py>
-enjoy
+You are open to fork, pull, download, test, comment or share them
+If you like them, do email me and let me know
+"anandvenkatarama@gmail.com"
